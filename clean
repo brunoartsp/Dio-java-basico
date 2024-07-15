@@ -1,0 +1,30 @@
+[33mcommit 6fc5996b56fd3e54cc663d28de8c69da06c56733[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 2054394 4ab57ca
+Author: brunoartsp <brunoartsp@hotmail.com>
+Date:   Mon Jul 15 04:46:21 2024 -0300
+
+    Merge branch 'main' of https://github.com/brunoartsp/Dio-java-basico
+
+[33mcommit 2054394649dca722ee95894dd4f8d297b365681b[m
+Author: brunoartsp <brunoartsp@hotmail.com>
+Date:   Mon Jul 15 04:16:19 2024 -0300
+
+    adiciona diretorio com aulas um e dois
+
+[33mcommit 338d69d2947c755f425037c7dda6ab3c7220bcdf[m
+Author: brunoartsp <brunoartsp@hotmail.com>
+Date:   Mon Jul 15 03:44:15 2024 -0300
+
+    mixed
+
+[33mcommit 4ab57ca0a90dcaa1c5fa43bdaf990fc64eb31d09[m
+Author: brunoartsp <brunoartsp@hotmail.com>
+Date:   Sat Jul 13 04:44:09 2024 -0300
+
+    teste matinal
+
+[33mcommit 48a0ac7113cdff2d2bee6e51b98c28ead34a79ef[m
+Author: brunoartsp <163043217+brunoartsp@users.noreply.github.com>
+Date:   Fri Jul 12 19:52:49 2024 -0300
+
+    Initial commit
